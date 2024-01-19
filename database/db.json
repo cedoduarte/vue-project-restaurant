@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "id": "e82b",
+      "name": "Carlos Enrique Duarte Ortiz",
+      "email": "carlosduarte@hotmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c241",
+      "name": "Ana",
+      "email": "ana@hotmail.com",
+      "password": "ana"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Noida Sector 50",
+      "contact": "121212",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Dominos",
+      "contact": "22222",
+      "address": "Gurgaon Sector 20"
+    },
+    {
+      "id": "3",
+      "name": "KFC",
+      "contact": "33333",
+      "address": "Delgi CP"
+    },
+    {
+      "id": "02ee",
+      "name": "Little Caesar's",
+      "address": "Pabellón Misiones",
+      "contact": "99999"
+    }
+  ]
+}
